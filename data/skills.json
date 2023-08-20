@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PHP",
+    "level": "2"
+  },
+  {
+    "name": "JAVASCRIPT",
+    "level": "5"
+  },
+  {
+    "name": "REACT",
+    "level": "4"
+  },
+  {
+    "name": "ANGULAR",
+    "level": "3"
+  },
+  {
+    "name": "NODE",
+    "level": "2"
+  },
+  {
+    "name": "LARAVEL",
+    "level": "1"
+  }
+]
